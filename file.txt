@@ -1,1 +1,2 @@
 This is git hub, very interesting topic in github.
+adding few parameters for understanding git merge command
